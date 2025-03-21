@@ -2,6 +2,9 @@
 
 hier wird eine To-Do App gebaut!
 
+Im frontend:
+npm run build
+
 
 Jetzt wollen wir das ganze mit einer docker-compose.yml starten
 
